@@ -1,3 +1,6 @@
+#dsinterns4
+#data science inetnship on slash mark
+#task 2 in intermediate level
 # Diabetic-Retinopathy-Detection
 
 Diabetic retinopathy is a condition suffered by people who have diabeties, which leads to permenent blindness if not treated in time. 
